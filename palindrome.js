@@ -1,4 +1,4 @@
-var revilpalindrome=function(){
+var revilpalindrome=()=>{
 
 // Javascript Program to check whether the
 // Array is palindrome or not
